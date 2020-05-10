@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zad3-Fragments</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_input">Name input</string>
+    <string name="add_new">Add new</string>
+    <string name="address_input">Address input</string>
+    <string name="image_url_input">Image URL input</string>
+</resources>
